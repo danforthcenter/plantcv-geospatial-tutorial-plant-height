@@ -2,10 +2,12 @@
 
 Try out our tutorial! Learn how to find plant height of plots with PlantCV Geospatial.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eseigel/plantcv-geospatial-tutorial-plant-height/1e57b501500ed2d2e24bdab3535595b9c775cf23?urlpath=lab%2Ftree%2Findex.ipynb)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-geospatial-tutorial-plant-height/blob/main/index-Colab.ipynb)
-
-## Tutorial
+## Tags
 
 geospatial, plant, height, tutorial
+
+## Citations
+
+Matias, F. I., Green, A., Lachowiec, J. A., LeBauer, D., & Feldman, M. (2022). Bison‐Fly: An open‐source UAV pipeline for plant breeding data collection. The Plant Phenome Journal, 5(1). https://doi.org/10.1002/ppj2.20048
+
+‌
