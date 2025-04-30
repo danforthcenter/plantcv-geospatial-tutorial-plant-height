@@ -2,6 +2,8 @@
 
 Try out our tutorial! Learn how to find plant height of plots with PlantCV Geospatial.
 
+This tutorial is for local use only as it uses napari, which will not open through web browsers.
+
 ## Tags
 
 geospatial, plant, height, tutorial
