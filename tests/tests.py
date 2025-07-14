@@ -7,7 +7,7 @@ def test_notebook(tmpdir):
     """Test the notebook."""
     tmp = tmpdir.mkdir('sub')
     # Open the notebook
-    with open("https://github.com/danforthcenter/plantcv-geospatial-tutorial-plant-height/blob/f6e38b58b7dd6c9faea6d08b46db77f3d42d4e92/tests/index-Test.ipynb", "r") as f:
+    with open("tests/index-Test.ipynb", "r") as f:
         nb = nbformat.read(f, as_version=4)
 
     # Process the notebook
