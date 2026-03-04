@@ -136,3 +136,8 @@ dmypy.json
 
 # macOS
 .DS_Store
+
+# BisonFly data
+NDSU_WheatData_UAV_2021.zip
+BisonFly/
+shapefile/
