@@ -1,4 +1,4 @@
-# Plant Height Tutorial
+# PlantCV-Geospatial: Plant Height Tutorial
 
 Try out our tutorial! Learn how to find plant height of plots with PlantCV Geospatial.
 
@@ -10,7 +10,8 @@ geospatial, plant, height, tutorial
 
 ## Citations
 
-Wilde, S. C. & Cope, D. A. Maize G2F UAV Data, College Station, TX 2019. CyVerse Data Commons https://doi.org/10.25739/D9GT-HV94 (2020).
+Tutorial citation: 10.5281/zenodo.16000873
 
-‌
+Data used citation: Wilde, S. C. & Cope, D. A. Maize G2F UAV Data, College Station, TX 2019. CyVerse Data Commons https://doi.org/10.25739/D9GT-HV94 (2020).
+
 [![test-pr](https://github.com/danforthcenter/plantcv-geospatial-tutorial-plant-height/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-geospatial-tutorial-plant-height/actions/workflows/ci-tests.yml)
